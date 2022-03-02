@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sales>
+    <receipt id="2">
+        <when format="YY-mm-dd">1992-01-01</when>
+        <seller id="2">Kevin</seller>
+        <where id="HQ">
+            <name>HQ</name>
+            <address>Far side of Eros</address>
+        </where>
+        <items>
+            <item id="AA0002">
+                <name>donk</name>
+                <price currency="GBP">134</price>
+                <quantity>12</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="AA0004">
+                <name>thingamajigPro</name>
+                <price currency="GBP">134</price>
+                <quantity>13</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="AA0006">
+                <name>Transport</name>
+                <price currency="GBP">134</price>
+                <quantity>8</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+        </items>
+    </receipt>
+    <receipt id="2">
+        <when format="YY-mm-dd">1992-01-02</when>
+        <seller id="0">John</seller>
+        <where id="HQ">
+            <name>HQ</name>
+            <address>Far side of Eros</address>
+        </where>
+        <items>
+            <item id="AA0005">
+                <name>Evosuite</name>
+                <price currency="GBP">134</price>
+                <quantity>6</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="AA0006">
+                <name>Transport</name>
+                <price currency="GBP">134</price>
+                <quantity>14</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="AA0002">
+                <name>donk</name>
+                <price currency="GBP">134</price>
+                <quantity>7</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="AA0004">
+                <name>thingamajigPro</name>
+                <price currency="GBP">134</price>
+                <quantity>7</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="AA0001">
+                <name>spliff</name>
+                <price currency="GBP">134</price>
+                <quantity>3</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="AA0003">
+                <name>gengja</name>
+                <price currency="GBP">134</price>
+                <quantity>14</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="AA0007">
+                <name>cloths</name>
+                <price currency="GBP">134</price>
+                <quantity>1</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+        </items>
+    </receipt>
+    <receipt id="2">
+        <when format="YY-mm-dd">1992-01-03</when>
+        <seller id="5">Jess</seller>
+        <where id="HQ">
+            <name>HQ</name>
+            <address>Far side of Eros</address>
+        </where>
+        <items>
+            <item id="AA0007">
+                <name>cloths</name>
+                <price currency="GBP">134</price>
+                <quantity>9</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="AA0001">
+                <name>spliff</name>
+                <price currency="GBP">134</price>
+                <quantity>6</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="AA0006">
+                <name>Transport</name>
+                <price currency="GBP">134</price>
+                <quantity>7</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="AA0004">
+                <name>thingamajigPro</name>
+                <price currency="GBP">134</price>
+                <quantity>8</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="AA0003">
+                <name>gengja</name>
+                <price currency="GBP">134</price>
+                <quantity>13</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="AA0002">
+                <name>donk</name>
+                <price currency="GBP">134</price>
+                <quantity>3</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+        </items>
+    </receipt>
+    <receipt id="2">
+        <when format="YY-mm-dd">1992-01-04</when>
+        <seller id="5">Jess</seller>
+        <where id="HQ">
+            <name>HQ</name>
+            <address>Far side of Eros</address>
+        </where>
+        <items>
+            <item id="AA0001">
+                <name>spliff</name>
+                <price currency="GBP">134</price>
+                <quantity>3</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="AA0003">
+                <name>gengja</name>
+                <price currency="GBP">134</price>
+                <quantity>11</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="AA0004">
+                <name>thingamajigPro</name>
+                <price currency="GBP">134</price>
+                <quantity>3</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="AA0007">
+                <name>cloths</name>
+                <price currency="GBP">134</price>
+                <quantity>6</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="AA0005">
+                <name>Evosuite</name>
+                <price currency="GBP">134</price>
+                <quantity>7</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+        </items>
+    </receipt>
+    <receipt id="2">
+        <when format="YY-mm-dd">1992-01-05</when>
+        <seller id="4">Susan</seller>
+        <where id="HQ">
+            <name>HQ</name>
+            <address>Far side of Eros</address>
+        </where>
+        <items>
+            <item id="AA0002">
+                <name>donk</name>
+                <price currency="GBP">134</price>
+                <quantity>2</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="AA0005">
+                <name>Evosuite</name>
+                <price currency="GBP">134</price>
+                <quantity>13</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="AA0001">
+                <name>spliff</name>
+                <price currency="GBP">134</price>
+                <quantity>12</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+        </items>
+    </receipt>
+    <receipt id="2">
+        <when format="YY-mm-dd">1992-01-06</when>
+        <seller id="5">Jess</seller>
+        <where id="HQ">
+            <name>HQ</name>
+            <address>Far side of Eros</address>
+        </where>
+        <items>
+            <item id="AA0004">
+                <name>thingamajigPro</name>
+                <price currency="GBP">134</price>
+                <quantity>1</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="AA0006">
+                <name>Transport</name>
+                <price currency="GBP">134</price>
+                <quantity>7</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="AA0002">
+                <name>donk</name>
+                <price currency="GBP">134</price>
+                <quantity>9</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="AA0001">
+                <name>spliff</name>
+                <price currency="GBP">134</price>
+                <quantity>11</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="AA0003">
+                <name>gengja</name>
+                <price currency="GBP">134</price>
+                <quantity>10</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+        </items>
+    </receipt>
+    <receipt id="2">
+        <when format="YY-mm-dd">1992-01-07</when>
+        <seller id="1">Saemi</seller>
+        <where id="HQ">
+            <name>HQ</name>
+            <address>Far side of Eros</address>
+        </where>
+        <items>
+            <item id="AA0001">
+                <name>spliff</name>
+                <price currency="GBP">134</price>
+                <quantity>8</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="AA0007">
+                <name>cloths</name>
+                <price currency="GBP">134</price>
+                <quantity>1</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="AA0004">
+                <name>thingamajigPro</name>
+                <price currency="GBP">134</price>
+                <quantity>10</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+        </items>
+    </receipt>
+    <receipt id="2">
+        <when format="YY-mm-dd">1992-01-08</when>
+        <seller id="0">John</seller>
+        <where id="HQ">
+            <name>HQ</name>
+            <address>Far side of Eros</address>
+        </where>
+        <items>
+            <item id="AA0007">
+                <name>cloths</name>
+                <price currency="GBP">134</price>
+                <quantity>3</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="AA0002">
+                <name>donk</name>
+                <price currency="GBP">134</price>
+                <quantity>3</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="AA0006">
+                <name>Transport</name>
+                <price currency="GBP">134</price>
+                <quantity>7</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+        </items>
+    </receipt>
+    <receipt id="2">
+        <when format="YY-mm-dd">1992-01-09</when>
+        <seller id="4">Susan</seller>
+        <where id="HQ">
+            <name>HQ</name>
+            <address>Far side of Eros</address>
+        </where>
+        <items>
+            <item id="AA0007">
+                <name>cloths</name>
+                <price currency="GBP">134</price>
+                <quantity>11</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="AA0001">
+                <name>spliff</name>
+                <price currency="GBP">134</price>
+                <quantity>3</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="AA0004">
+                <name>thingamajigPro</name>
+                <price currency="GBP">134</price>
+                <quantity>12</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="AA0006">
+                <name>Transport</name>
+                <price currency="GBP">134</price>
+                <quantity>5</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+        </items>
+    </receipt>
+    <receipt id="2">
+        <when format="YY-mm-dd">1992-01-10</when>
+        <seller id="5">Jess</seller>
+        <where id="HQ">
+            <name>HQ</name>
+            <address>Far side of Eros</address>
+        </where>
+        <items>
+            <item id="AA0001">
+                <name>spliff</name>
+                <price currency="GBP">134</price>
+                <quantity>10</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="AA0005">
+                <name>Evosuite</name>
+                <price currency="GBP">134</price>
+                <quantity>1</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="AA0004">
+                <name>thingamajigPro</name>
+                <price currency="GBP">134</price>
+                <quantity>1</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="AA0007">
+                <name>cloths</name>
+                <price currency="GBP">134</price>
+                <quantity>6</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="AA0006">
+                <name>Transport</name>
+                <price currency="GBP">134</price>
+                <quantity>11</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="AA0003">
+                <name>gengja</name>
+                <price currency="GBP">134</price>
+                <quantity>8</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="AA0002">
+                <name>donk</name>
+                <price currency="GBP">134</price>
+                <quantity>13</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+        </items>
+    </receipt>
+    <receipt id="2">
+        <when format="YY-mm-dd">1992-01-11</when>
+        <seller id="6">Catherine</seller>
+        <where id="HQ">
+            <name>HQ</name>
+            <address>Far side of Eros</address>
+        </where>
+        <items>
+            <item id="AA0004">
+                <name>thingamajigPro</name>
+                <price currency="GBP">134</price>
+                <quantity>4</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="AA0006">
+                <name>Transport</name>
+                <price currency="GBP">134</price>
+                <quantity>11</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="AA0003">
+                <name>gengja</name>
+                <price currency="GBP">134</price>
+                <quantity>8</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="AA0007">
+                <name>cloths</name>
+                <price currency="GBP">134</price>
+                <quantity>3</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+        </items>
+    </receipt>
+    <receipt id="2">
+        <when format="YY-mm-dd">1992-01-12</when>
+        <seller id="4">Susan</seller>
+        <where id="HQ">
+            <name>HQ</name>
+            <address>Far side of Eros</address>
+        </where>
+        <items>
+            <item id="AA0005">
+                <name>Evosuite</name>
+                <price currency="GBP">134</price>
+                <quantity>14</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="AA0001">
+                <name>spliff</name>
+                <price currency="GBP">134</price>
+                <quantity>10</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="AA0003">
+                <name>gengja</name>
+                <price currency="GBP">134</price>
+                <quantity>7</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="AA0006">
+                <name>Transport</name>
+                <price currency="GBP">134</price>
+                <quantity>9</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+        </items>
+    </receipt>
+    <receipt id="2">
+        <when format="YY-mm-dd">1992-01-13</when>
+        <seller id="7">Olga</seller>
+        <where id="HQ">
+            <name>HQ</name>
+            <address>Far side of Eros</address>
+        </where>
+        <items>
+            <item id="AA0001">
+                <name>spliff</name>
+                <price currency="GBP">134</price>
+                <quantity>3</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="AA0005">
+                <name>Evosuite</name>
+                <price currency="GBP">134</price>
+                <quantity>3</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="AA0006">
+                <name>Transport</name>
+                <price currency="GBP">134</price>
+                <quantity>9</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+        </items>
+    </receipt>
+    <receipt id="2">
+        <when format="YY-mm-dd">1992-01-14</when>
+        <seller id="0">John</seller>
+        <where id="HQ">
+            <name>HQ</name>
+            <address>Far side of Eros</address>
+        </where>
+        <items>
+            <item id="AA0007">
+                <name>cloths</name>
+                <price currency="GBP">134</price>
+                <quantity>8</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+        </items>
+    </receipt>
+</sales>

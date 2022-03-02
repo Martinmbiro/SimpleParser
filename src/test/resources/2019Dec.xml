@@ -1,0 +1,4503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sales>
+    <receipt id="2">
+        <when format="YY-mm-dd">2019-07-01</when>
+        <seller id="5">Jess</seller>
+        <where id="HQ">
+            <name>HQ</name>
+            <address>Far side of Eros</address>
+        </where>
+        <items>
+            <item id="AA0001">
+                <name>spliff</name>
+                <price currency="GBP">235</price>
+                <quantity>4</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00014">
+                <name>plebrousions</name>
+                <price currency="GBP">2123</price>
+                <quantity>7</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00020">
+                <name>kigatings</name>
+                <price currency="GBP">1091</price>
+                <quantity>14</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00042">
+                <name>bakizes</name>
+                <price currency="GBP">935</price>
+                <quantity>10</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00026">
+                <name>beracy</name>
+                <price currency="GBP">1388</price>
+                <quantity>12</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00019">
+                <name>asturnstemish</name>
+                <price currency="GBP">797</price>
+                <quantity>7</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00039">
+                <name>ceives</name>
+                <price currency="GBP">1052</price>
+                <quantity>14</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00025">
+                <name>apperfecoch</name>
+                <price currency="GBP">1409</price>
+                <quantity>5</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="AA0003">
+                <name>gengja</name>
+                <price currency="GBP">235</price>
+                <quantity>3</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00027">
+                <name>travize</name>
+                <price currency="GBP">1542</price>
+                <quantity>11</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00043">
+                <name>spotheatorier</name>
+                <price currency="GBP">2279</price>
+                <quantity>1</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00036">
+                <name>lodishors</name>
+                <price currency="GBP">1616</price>
+                <quantity>2</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00021">
+                <name>complilatoss</name>
+                <price currency="GBP">739</price>
+                <quantity>7</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00032">
+                <name>squestolic</name>
+                <price currency="GBP">1334</price>
+                <quantity>10</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="AA0004">
+                <name>thingamajigPro</name>
+                <price currency="GBP">235</price>
+                <quantity>8</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00006">
+                <name>inspirterrians</name>
+                <price currency="GBP">1882</price>
+                <quantity>11</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00004">
+                <name>hality</name>
+                <price currency="GBP">1826</price>
+                <quantity>11</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00034">
+                <name>juncernelsion</name>
+                <price currency="GBP">1511</price>
+                <quantity>5</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00000">
+                <name>moterved</name>
+                <price currency="GBP">1432</price>
+                <quantity>4</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="AA0006">
+                <name>Transport</name>
+                <price currency="GBP">235</price>
+                <quantity>3</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00028">
+                <name>rewdlytism</name>
+                <price currency="GBP">1952</price>
+                <quantity>10</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00031">
+                <name>abbook</name>
+                <price currency="GBP">1469</price>
+                <quantity>8</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00007">
+                <name>triproofes</name>
+                <price currency="GBP">1924</price>
+                <quantity>13</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+        </items>
+    </receipt>
+    <receipt id="2">
+        <when format="YY-mm-dd">2019-07-02</when>
+        <seller id="6">Catherine</seller>
+        <where id="CSM">
+            <name>CSandM</name>
+            <address>Stirling</address>
+        </where>
+        <items>
+            <item id="BB00016">
+                <name>expromot</name>
+                <price currency="GBP">1098</price>
+                <quantity>5</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00011">
+                <name>infroming</name>
+                <price currency="GBP">1654</price>
+                <quantity>9</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="AA0004">
+                <name>thingamajigPro</name>
+                <price currency="GBP">235</price>
+                <quantity>12</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00028">
+                <name>rewdlytism</name>
+                <price currency="GBP">1952</price>
+                <quantity>11</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00001">
+                <name>vanding</name>
+                <price currency="GBP">1091</price>
+                <quantity>13</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00013">
+                <name>flirriar</name>
+                <price currency="GBP">1474</price>
+                <quantity>10</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00033">
+                <name>fertebb</name>
+                <price currency="GBP">2037</price>
+                <quantity>4</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00020">
+                <name>kigatings</name>
+                <price currency="GBP">1091</price>
+                <quantity>3</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00036">
+                <name>lodishors</name>
+                <price currency="GBP">1616</price>
+                <quantity>1</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="AA0006">
+                <name>Transport</name>
+                <price currency="GBP">235</price>
+                <quantity>9</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00023">
+                <name>auscriber</name>
+                <price currency="GBP">2396</price>
+                <quantity>10</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00003">
+                <name>banary</name>
+                <price currency="GBP">2225</price>
+                <quantity>14</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00017">
+                <name>vageneurrives</name>
+                <price currency="GBP">1364</price>
+                <quantity>13</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00029">
+                <name>symbly</name>
+                <price currency="GBP">1269</price>
+                <quantity>9</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00044">
+                <name>exclain</name>
+                <price currency="GBP">1164</price>
+                <quantity>7</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00015">
+                <name>thoration</name>
+                <price currency="GBP">1392</price>
+                <quantity>14</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00031">
+                <name>abbook</name>
+                <price currency="GBP">1469</price>
+                <quantity>6</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00035">
+                <name>penessian</name>
+                <price currency="GBP">1817</price>
+                <quantity>4</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00026">
+                <name>beracy</name>
+                <price currency="GBP">1388</price>
+                <quantity>13</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00005">
+                <name>infitton</name>
+                <price currency="GBP">1701</price>
+                <quantity>13</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00009">
+                <name>berlsbure</name>
+                <price currency="GBP">2181</price>
+                <quantity>8</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00034">
+                <name>juncernelsion</name>
+                <price currency="GBP">1511</price>
+                <quantity>13</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00010">
+                <name>chanusly</name>
+                <price currency="GBP">2022</price>
+                <quantity>11</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00043">
+                <name>spotheatorier</name>
+                <price currency="GBP">2279</price>
+                <quantity>2</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00041">
+                <name>schubrad</name>
+                <price currency="GBP">1722</price>
+                <quantity>13</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+        </items>
+    </receipt>
+    <receipt id="2">
+        <when format="YY-mm-dd">2019-07-03</when>
+        <seller id="3">Harry</seller>
+        <where id="P1">
+            <name>Outpost</name>
+            <address>Mars</address>
+        </where>
+        <items>
+            <item id="BB00015">
+                <name>thoration</name>
+                <price currency="GBP">1392</price>
+                <quantity>4</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00018">
+                <name>slacte</name>
+                <price currency="GBP">828</price>
+                <quantity>14</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00024">
+                <name>grenared</name>
+                <price currency="GBP">1640</price>
+                <quantity>11</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="AA0007">
+                <name>cloths</name>
+                <price currency="GBP">235</price>
+                <quantity>1</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00013">
+                <name>flirriar</name>
+                <price currency="GBP">1474</price>
+                <quantity>12</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00019">
+                <name>asturnstemish</name>
+                <price currency="GBP">797</price>
+                <quantity>1</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00025">
+                <name>apperfecoch</name>
+                <price currency="GBP">1409</price>
+                <quantity>1</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+        </items>
+    </receipt>
+    <receipt id="2">
+        <when format="YY-mm-dd">2019-07-04</when>
+        <seller id="0">John</seller>
+        <where id="HQ">
+            <name>HQ</name>
+            <address>Far side of Eros</address>
+        </where>
+        <items>
+            <item id="BB00010">
+                <name>chanusly</name>
+                <price currency="GBP">2022</price>
+                <quantity>10</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00042">
+                <name>bakizes</name>
+                <price currency="GBP">935</price>
+                <quantity>7</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00027">
+                <name>travize</name>
+                <price currency="GBP">1542</price>
+                <quantity>14</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="AA0002">
+                <name>donk</name>
+                <price currency="GBP">235</price>
+                <quantity>4</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00013">
+                <name>flirriar</name>
+                <price currency="GBP">1474</price>
+                <quantity>10</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00003">
+                <name>banary</name>
+                <price currency="GBP">2225</price>
+                <quantity>12</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00049">
+                <name>macant</name>
+                <price currency="GBP">1820</price>
+                <quantity>7</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00024">
+                <name>grenared</name>
+                <price currency="GBP">1640</price>
+                <quantity>4</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00048">
+                <name>farfum</name>
+                <price currency="GBP">1649</price>
+                <quantity>12</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00021">
+                <name>complilatoss</name>
+                <price currency="GBP">739</price>
+                <quantity>12</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="AA0004">
+                <name>thingamajigPro</name>
+                <price currency="GBP">235</price>
+                <quantity>7</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00032">
+                <name>squestolic</name>
+                <price currency="GBP">1334</price>
+                <quantity>8</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00040">
+                <name>charia</name>
+                <price currency="GBP">2344</price>
+                <quantity>12</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+        </items>
+    </receipt>
+    <receipt id="2">
+        <when format="YY-mm-dd">2019-07-05</when>
+        <seller id="6">Catherine</seller>
+        <where id="Ice">
+            <name>Cold place</name>
+            <address>Reykjavik</address>
+        </where>
+        <items>
+            <item id="BB00048">
+                <name>farfum</name>
+                <price currency="GBP">1649</price>
+                <quantity>7</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00035">
+                <name>penessian</name>
+                <price currency="GBP">1817</price>
+                <quantity>2</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00036">
+                <name>lodishors</name>
+                <price currency="GBP">1616</price>
+                <quantity>2</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+        </items>
+    </receipt>
+    <receipt id="2">
+        <when format="YY-mm-dd">2019-07-06</when>
+        <seller id="6">Catherine</seller>
+        <where id="CSM">
+            <name>CSandM</name>
+            <address>Stirling</address>
+        </where>
+        <items>
+            <item id="AA0006">
+                <name>Transport</name>
+                <price currency="GBP">235</price>
+                <quantity>7</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00015">
+                <name>thoration</name>
+                <price currency="GBP">1392</price>
+                <quantity>3</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00009">
+                <name>berlsbure</name>
+                <price currency="GBP">2181</price>
+                <quantity>8</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00011">
+                <name>infroming</name>
+                <price currency="GBP">1654</price>
+                <quantity>13</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00034">
+                <name>juncernelsion</name>
+                <price currency="GBP">1511</price>
+                <quantity>10</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00041">
+                <name>schubrad</name>
+                <price currency="GBP">1722</price>
+                <quantity>1</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00049">
+                <name>macant</name>
+                <price currency="GBP">1820</price>
+                <quantity>14</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00023">
+                <name>auscriber</name>
+                <price currency="GBP">2396</price>
+                <quantity>8</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00031">
+                <name>abbook</name>
+                <price currency="GBP">1469</price>
+                <quantity>8</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00040">
+                <name>charia</name>
+                <price currency="GBP">2344</price>
+                <quantity>3</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00017">
+                <name>vageneurrives</name>
+                <price currency="GBP">1364</price>
+                <quantity>13</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="AA0003">
+                <name>gengja</name>
+                <price currency="GBP">235</price>
+                <quantity>6</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="AA0007">
+                <name>cloths</name>
+                <price currency="GBP">235</price>
+                <quantity>4</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00038">
+                <name>worlantingel</name>
+                <price currency="GBP">809</price>
+                <quantity>11</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00037">
+                <name>spassomenulled</name>
+                <price currency="GBP">959</price>
+                <quantity>12</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00027">
+                <name>travize</name>
+                <price currency="GBP">1542</price>
+                <quantity>13</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00044">
+                <name>exclain</name>
+                <price currency="GBP">1164</price>
+                <quantity>12</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00004">
+                <name>hality</name>
+                <price currency="GBP">1826</price>
+                <quantity>6</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="AA0005">
+                <name>Evosuite</name>
+                <price currency="GBP">235</price>
+                <quantity>10</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00028">
+                <name>rewdlytism</name>
+                <price currency="GBP">1952</price>
+                <quantity>7</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00016">
+                <name>expromot</name>
+                <price currency="GBP">1098</price>
+                <quantity>1</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00013">
+                <name>flirriar</name>
+                <price currency="GBP">1474</price>
+                <quantity>14</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="AA0002">
+                <name>donk</name>
+                <price currency="GBP">235</price>
+                <quantity>8</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00022">
+                <name>bernite</name>
+                <price currency="GBP">2405</price>
+                <quantity>9</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00008">
+                <name>subtrancor</name>
+                <price currency="GBP">2139</price>
+                <quantity>11</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00006">
+                <name>inspirterrians</name>
+                <price currency="GBP">1882</price>
+                <quantity>9</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+        </items>
+    </receipt>
+    <receipt id="2">
+        <when format="YY-mm-dd">2019-07-07</when>
+        <seller id="5">Jess</seller>
+        <where id="MIT">
+            <name>MIT</name>
+            <address>Boston</address>
+        </where>
+        <items>
+            <item id="BB00047">
+                <name>pulasmays</name>
+                <price currency="GBP">1278</price>
+                <quantity>10</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00043">
+                <name>spotheatorier</name>
+                <price currency="GBP">2279</price>
+                <quantity>13</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00035">
+                <name>penessian</name>
+                <price currency="GBP">1817</price>
+                <quantity>3</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00041">
+                <name>schubrad</name>
+                <price currency="GBP">1722</price>
+                <quantity>5</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00034">
+                <name>juncernelsion</name>
+                <price currency="GBP">1511</price>
+                <quantity>1</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00000">
+                <name>moterved</name>
+                <price currency="GBP">1432</price>
+                <quantity>10</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00027">
+                <name>travize</name>
+                <price currency="GBP">1542</price>
+                <quantity>11</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00045">
+                <name>eptudolls</name>
+                <price currency="GBP">2041</price>
+                <quantity>4</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00017">
+                <name>vageneurrives</name>
+                <price currency="GBP">1364</price>
+                <quantity>9</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00014">
+                <name>plebrousions</name>
+                <price currency="GBP">2123</price>
+                <quantity>6</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00002">
+                <name>rainstover</name>
+                <price currency="GBP">1456</price>
+                <quantity>10</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00049">
+                <name>macant</name>
+                <price currency="GBP">1820</price>
+                <quantity>9</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="AA0005">
+                <name>Evosuite</name>
+                <price currency="GBP">235</price>
+                <quantity>3</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00048">
+                <name>farfum</name>
+                <price currency="GBP">1649</price>
+                <quantity>2</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00013">
+                <name>flirriar</name>
+                <price currency="GBP">1474</price>
+                <quantity>3</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00025">
+                <name>apperfecoch</name>
+                <price currency="GBP">1409</price>
+                <quantity>11</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00033">
+                <name>fertebb</name>
+                <price currency="GBP">2037</price>
+                <quantity>11</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00011">
+                <name>infroming</name>
+                <price currency="GBP">1654</price>
+                <quantity>1</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00032">
+                <name>squestolic</name>
+                <price currency="GBP">1334</price>
+                <quantity>4</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00012">
+                <name>succashitheins</name>
+                <price currency="GBP">996</price>
+                <quantity>5</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00044">
+                <name>exclain</name>
+                <price currency="GBP">1164</price>
+                <quantity>5</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00007">
+                <name>triproofes</name>
+                <price currency="GBP">1924</price>
+                <quantity>8</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="AA0003">
+                <name>gengja</name>
+                <price currency="GBP">235</price>
+                <quantity>3</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00026">
+                <name>beracy</name>
+                <price currency="GBP">1388</price>
+                <quantity>11</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00020">
+                <name>kigatings</name>
+                <price currency="GBP">1091</price>
+                <quantity>6</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00028">
+                <name>rewdlytism</name>
+                <price currency="GBP">1952</price>
+                <quantity>3</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00024">
+                <name>grenared</name>
+                <price currency="GBP">1640</price>
+                <quantity>12</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+        </items>
+    </receipt>
+    <receipt id="2">
+        <when format="YY-mm-dd">2019-07-08</when>
+        <seller id="3">Harry</seller>
+        <where id="P1">
+            <name>Outpost</name>
+            <address>Mars</address>
+        </where>
+        <items>
+            <item id="BB00023">
+                <name>auscriber</name>
+                <price currency="GBP">2396</price>
+                <quantity>5</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00001">
+                <name>vanding</name>
+                <price currency="GBP">1091</price>
+                <quantity>14</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00005">
+                <name>infitton</name>
+                <price currency="GBP">1701</price>
+                <quantity>4</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00019">
+                <name>asturnstemish</name>
+                <price currency="GBP">797</price>
+                <quantity>3</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00004">
+                <name>hality</name>
+                <price currency="GBP">1826</price>
+                <quantity>11</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00007">
+                <name>triproofes</name>
+                <price currency="GBP">1924</price>
+                <quantity>5</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00025">
+                <name>apperfecoch</name>
+                <price currency="GBP">1409</price>
+                <quantity>10</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00043">
+                <name>spotheatorier</name>
+                <price currency="GBP">2279</price>
+                <quantity>2</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00040">
+                <name>charia</name>
+                <price currency="GBP">2344</price>
+                <quantity>10</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00016">
+                <name>expromot</name>
+                <price currency="GBP">1098</price>
+                <quantity>5</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00033">
+                <name>fertebb</name>
+                <price currency="GBP">2037</price>
+                <quantity>10</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00028">
+                <name>rewdlytism</name>
+                <price currency="GBP">1952</price>
+                <quantity>9</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00008">
+                <name>subtrancor</name>
+                <price currency="GBP">2139</price>
+                <quantity>3</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00039">
+                <name>ceives</name>
+                <price currency="GBP">1052</price>
+                <quantity>10</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00022">
+                <name>bernite</name>
+                <price currency="GBP">2405</price>
+                <quantity>3</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="AA0003">
+                <name>gengja</name>
+                <price currency="GBP">235</price>
+                <quantity>11</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00036">
+                <name>lodishors</name>
+                <price currency="GBP">1616</price>
+                <quantity>11</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00037">
+                <name>spassomenulled</name>
+                <price currency="GBP">959</price>
+                <quantity>3</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00003">
+                <name>banary</name>
+                <price currency="GBP">2225</price>
+                <quantity>14</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00002">
+                <name>rainstover</name>
+                <price currency="GBP">1456</price>
+                <quantity>1</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00013">
+                <name>flirriar</name>
+                <price currency="GBP">1474</price>
+                <quantity>6</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="AA0007">
+                <name>cloths</name>
+                <price currency="GBP">235</price>
+                <quantity>9</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00032">
+                <name>squestolic</name>
+                <price currency="GBP">1334</price>
+                <quantity>10</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00011">
+                <name>infroming</name>
+                <price currency="GBP">1654</price>
+                <quantity>2</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00034">
+                <name>juncernelsion</name>
+                <price currency="GBP">1511</price>
+                <quantity>2</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00045">
+                <name>eptudolls</name>
+                <price currency="GBP">2041</price>
+                <quantity>9</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00049">
+                <name>macant</name>
+                <price currency="GBP">1820</price>
+                <quantity>7</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00009">
+                <name>berlsbure</name>
+                <price currency="GBP">2181</price>
+                <quantity>2</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00026">
+                <name>beracy</name>
+                <price currency="GBP">1388</price>
+                <quantity>10</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00006">
+                <name>inspirterrians</name>
+                <price currency="GBP">1882</price>
+                <quantity>4</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00038">
+                <name>worlantingel</name>
+                <price currency="GBP">809</price>
+                <quantity>7</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00029">
+                <name>symbly</name>
+                <price currency="GBP">1269</price>
+                <quantity>9</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00015">
+                <name>thoration</name>
+                <price currency="GBP">1392</price>
+                <quantity>14</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00035">
+                <name>penessian</name>
+                <price currency="GBP">1817</price>
+                <quantity>1</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="AA0002">
+                <name>donk</name>
+                <price currency="GBP">235</price>
+                <quantity>9</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00044">
+                <name>exclain</name>
+                <price currency="GBP">1164</price>
+                <quantity>8</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00018">
+                <name>slacte</name>
+                <price currency="GBP">828</price>
+                <quantity>13</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00047">
+                <name>pulasmays</name>
+                <price currency="GBP">1278</price>
+                <quantity>7</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="AA0004">
+                <name>thingamajigPro</name>
+                <price currency="GBP">235</price>
+                <quantity>4</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00012">
+                <name>succashitheins</name>
+                <price currency="GBP">996</price>
+                <quantity>5</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00031">
+                <name>abbook</name>
+                <price currency="GBP">1469</price>
+                <quantity>2</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="AA0005">
+                <name>Evosuite</name>
+                <price currency="GBP">235</price>
+                <quantity>14</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00041">
+                <name>schubrad</name>
+                <price currency="GBP">1722</price>
+                <quantity>6</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="AA0001">
+                <name>spliff</name>
+                <price currency="GBP">235</price>
+                <quantity>2</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00027">
+                <name>travize</name>
+                <price currency="GBP">1542</price>
+                <quantity>3</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00042">
+                <name>bakizes</name>
+                <price currency="GBP">935</price>
+                <quantity>6</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00048">
+                <name>farfum</name>
+                <price currency="GBP">1649</price>
+                <quantity>8</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00000">
+                <name>moterved</name>
+                <price currency="GBP">1432</price>
+                <quantity>8</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="AA0006">
+                <name>Transport</name>
+                <price currency="GBP">235</price>
+                <quantity>5</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00010">
+                <name>chanusly</name>
+                <price currency="GBP">2022</price>
+                <quantity>2</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00017">
+                <name>vageneurrives</name>
+                <price currency="GBP">1364</price>
+                <quantity>12</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00021">
+                <name>complilatoss</name>
+                <price currency="GBP">739</price>
+                <quantity>4</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00046">
+                <name>bioglinkharmly</name>
+                <price currency="GBP">1960</price>
+                <quantity>2</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+        </items>
+    </receipt>
+    <receipt id="2">
+        <when format="YY-mm-dd">2019-07-09</when>
+        <seller id="5">Jess</seller>
+        <where id="P1">
+            <name>Outpost</name>
+            <address>Mars</address>
+        </where>
+        <items>
+            <item id="BB00040">
+                <name>charia</name>
+                <price currency="GBP">2344</price>
+                <quantity>4</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00014">
+                <name>plebrousions</name>
+                <price currency="GBP">2123</price>
+                <quantity>9</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+        </items>
+    </receipt>
+    <receipt id="2">
+        <when format="YY-mm-dd">2019-07-10</when>
+        <seller id="4">Susan</seller>
+        <where id="Ice">
+            <name>Cold place</name>
+            <address>Reykjavik</address>
+        </where>
+        <items>
+            <item id="BB00024">
+                <name>grenared</name>
+                <price currency="GBP">1640</price>
+                <quantity>5</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="AA0006">
+                <name>Transport</name>
+                <price currency="GBP">235</price>
+                <quantity>8</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="AA0002">
+                <name>donk</name>
+                <price currency="GBP">235</price>
+                <quantity>12</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00020">
+                <name>kigatings</name>
+                <price currency="GBP">1091</price>
+                <quantity>1</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00007">
+                <name>triproofes</name>
+                <price currency="GBP">1924</price>
+                <quantity>8</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="AA0001">
+                <name>spliff</name>
+                <price currency="GBP">235</price>
+                <quantity>2</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00006">
+                <name>inspirterrians</name>
+                <price currency="GBP">1882</price>
+                <quantity>5</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00013">
+                <name>flirriar</name>
+                <price currency="GBP">1474</price>
+                <quantity>3</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="AA0005">
+                <name>Evosuite</name>
+                <price currency="GBP">235</price>
+                <quantity>6</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00012">
+                <name>succashitheins</name>
+                <price currency="GBP">996</price>
+                <quantity>13</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00038">
+                <name>worlantingel</name>
+                <price currency="GBP">809</price>
+                <quantity>5</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00033">
+                <name>fertebb</name>
+                <price currency="GBP">2037</price>
+                <quantity>1</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00040">
+                <name>charia</name>
+                <price currency="GBP">2344</price>
+                <quantity>10</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00015">
+                <name>thoration</name>
+                <price currency="GBP">1392</price>
+                <quantity>4</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00041">
+                <name>schubrad</name>
+                <price currency="GBP">1722</price>
+                <quantity>8</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00003">
+                <name>banary</name>
+                <price currency="GBP">2225</price>
+                <quantity>7</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="AA0003">
+                <name>gengja</name>
+                <price currency="GBP">235</price>
+                <quantity>12</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00044">
+                <name>exclain</name>
+                <price currency="GBP">1164</price>
+                <quantity>10</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00009">
+                <name>berlsbure</name>
+                <price currency="GBP">2181</price>
+                <quantity>13</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00028">
+                <name>rewdlytism</name>
+                <price currency="GBP">1952</price>
+                <quantity>7</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00037">
+                <name>spassomenulled</name>
+                <price currency="GBP">959</price>
+                <quantity>5</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00000">
+                <name>moterved</name>
+                <price currency="GBP">1432</price>
+                <quantity>14</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00043">
+                <name>spotheatorier</name>
+                <price currency="GBP">2279</price>
+                <quantity>2</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00019">
+                <name>asturnstemish</name>
+                <price currency="GBP">797</price>
+                <quantity>12</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00035">
+                <name>penessian</name>
+                <price currency="GBP">1817</price>
+                <quantity>5</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00018">
+                <name>slacte</name>
+                <price currency="GBP">828</price>
+                <quantity>9</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00036">
+                <name>lodishors</name>
+                <price currency="GBP">1616</price>
+                <quantity>3</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00014">
+                <name>plebrousions</name>
+                <price currency="GBP">2123</price>
+                <quantity>2</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00016">
+                <name>expromot</name>
+                <price currency="GBP">1098</price>
+                <quantity>1</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00031">
+                <name>abbook</name>
+                <price currency="GBP">1469</price>
+                <quantity>3</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00011">
+                <name>infroming</name>
+                <price currency="GBP">1654</price>
+                <quantity>5</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00002">
+                <name>rainstover</name>
+                <price currency="GBP">1456</price>
+                <quantity>10</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00039">
+                <name>ceives</name>
+                <price currency="GBP">1052</price>
+                <quantity>6</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00046">
+                <name>bioglinkharmly</name>
+                <price currency="GBP">1960</price>
+                <quantity>10</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00022">
+                <name>bernite</name>
+                <price currency="GBP">2405</price>
+                <quantity>10</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00010">
+                <name>chanusly</name>
+                <price currency="GBP">2022</price>
+                <quantity>9</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00042">
+                <name>bakizes</name>
+                <price currency="GBP">935</price>
+                <quantity>8</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00029">
+                <name>symbly</name>
+                <price currency="GBP">1269</price>
+                <quantity>9</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00021">
+                <name>complilatoss</name>
+                <price currency="GBP">739</price>
+                <quantity>4</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="AA0004">
+                <name>thingamajigPro</name>
+                <price currency="GBP">235</price>
+                <quantity>5</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00026">
+                <name>beracy</name>
+                <price currency="GBP">1388</price>
+                <quantity>2</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00049">
+                <name>macant</name>
+                <price currency="GBP">1820</price>
+                <quantity>12</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+        </items>
+    </receipt>
+    <receipt id="2">
+        <when format="YY-mm-dd">2019-07-11</when>
+        <seller id="0">John</seller>
+        <where id="CSM">
+            <name>CSandM</name>
+            <address>Stirling</address>
+        </where>
+        <items>
+            <item id="BB00020">
+                <name>kigatings</name>
+                <price currency="GBP">1091</price>
+                <quantity>12</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00026">
+                <name>beracy</name>
+                <price currency="GBP">1388</price>
+                <quantity>6</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00035">
+                <name>penessian</name>
+                <price currency="GBP">1817</price>
+                <quantity>11</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00046">
+                <name>bioglinkharmly</name>
+                <price currency="GBP">1960</price>
+                <quantity>11</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00022">
+                <name>bernite</name>
+                <price currency="GBP">2405</price>
+                <quantity>6</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00017">
+                <name>vageneurrives</name>
+                <price currency="GBP">1364</price>
+                <quantity>4</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00045">
+                <name>eptudolls</name>
+                <price currency="GBP">2041</price>
+                <quantity>8</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00028">
+                <name>rewdlytism</name>
+                <price currency="GBP">1952</price>
+                <quantity>13</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00004">
+                <name>hality</name>
+                <price currency="GBP">1826</price>
+                <quantity>7</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00003">
+                <name>banary</name>
+                <price currency="GBP">2225</price>
+                <quantity>1</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00048">
+                <name>farfum</name>
+                <price currency="GBP">1649</price>
+                <quantity>12</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+        </items>
+    </receipt>
+    <receipt id="2">
+        <when format="YY-mm-dd">2019-07-12</when>
+        <seller id="7">Olga</seller>
+        <where id="HQ">
+            <name>HQ</name>
+            <address>Far side of Eros</address>
+        </where>
+        <items>
+            <item id="AA0004">
+                <name>thingamajigPro</name>
+                <price currency="GBP">235</price>
+                <quantity>3</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00001">
+                <name>vanding</name>
+                <price currency="GBP">1091</price>
+                <quantity>4</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00016">
+                <name>expromot</name>
+                <price currency="GBP">1098</price>
+                <quantity>6</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00044">
+                <name>exclain</name>
+                <price currency="GBP">1164</price>
+                <quantity>12</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00041">
+                <name>schubrad</name>
+                <price currency="GBP">1722</price>
+                <quantity>4</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="AA0005">
+                <name>Evosuite</name>
+                <price currency="GBP">235</price>
+                <quantity>4</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00003">
+                <name>banary</name>
+                <price currency="GBP">2225</price>
+                <quantity>4</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00046">
+                <name>bioglinkharmly</name>
+                <price currency="GBP">1960</price>
+                <quantity>8</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00017">
+                <name>vageneurrives</name>
+                <price currency="GBP">1364</price>
+                <quantity>11</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00005">
+                <name>infitton</name>
+                <price currency="GBP">1701</price>
+                <quantity>13</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00038">
+                <name>worlantingel</name>
+                <price currency="GBP">809</price>
+                <quantity>9</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00031">
+                <name>abbook</name>
+                <price currency="GBP">1469</price>
+                <quantity>6</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00019">
+                <name>asturnstemish</name>
+                <price currency="GBP">797</price>
+                <quantity>13</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="AA0002">
+                <name>donk</name>
+                <price currency="GBP">235</price>
+                <quantity>2</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00042">
+                <name>bakizes</name>
+                <price currency="GBP">935</price>
+                <quantity>14</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="AA0003">
+                <name>gengja</name>
+                <price currency="GBP">235</price>
+                <quantity>12</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00008">
+                <name>subtrancor</name>
+                <price currency="GBP">2139</price>
+                <quantity>11</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00021">
+                <name>complilatoss</name>
+                <price currency="GBP">739</price>
+                <quantity>9</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00034">
+                <name>juncernelsion</name>
+                <price currency="GBP">1511</price>
+                <quantity>13</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00043">
+                <name>spotheatorier</name>
+                <price currency="GBP">2279</price>
+                <quantity>11</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00011">
+                <name>infroming</name>
+                <price currency="GBP">1654</price>
+                <quantity>8</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00013">
+                <name>flirriar</name>
+                <price currency="GBP">1474</price>
+                <quantity>7</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00033">
+                <name>fertebb</name>
+                <price currency="GBP">2037</price>
+                <quantity>14</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00045">
+                <name>eptudolls</name>
+                <price currency="GBP">2041</price>
+                <quantity>3</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00047">
+                <name>pulasmays</name>
+                <price currency="GBP">1278</price>
+                <quantity>10</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00032">
+                <name>squestolic</name>
+                <price currency="GBP">1334</price>
+                <quantity>11</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00014">
+                <name>plebrousions</name>
+                <price currency="GBP">2123</price>
+                <quantity>14</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00040">
+                <name>charia</name>
+                <price currency="GBP">2344</price>
+                <quantity>1</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="AA0001">
+                <name>spliff</name>
+                <price currency="GBP">235</price>
+                <quantity>4</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00026">
+                <name>beracy</name>
+                <price currency="GBP">1388</price>
+                <quantity>5</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00039">
+                <name>ceives</name>
+                <price currency="GBP">1052</price>
+                <quantity>11</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00028">
+                <name>rewdlytism</name>
+                <price currency="GBP">1952</price>
+                <quantity>10</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00007">
+                <name>triproofes</name>
+                <price currency="GBP">1924</price>
+                <quantity>3</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00018">
+                <name>slacte</name>
+                <price currency="GBP">828</price>
+                <quantity>3</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00012">
+                <name>succashitheins</name>
+                <price currency="GBP">996</price>
+                <quantity>6</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+        </items>
+    </receipt>
+    <receipt id="2">
+        <when format="YY-mm-dd">2019-07-13</when>
+        <seller id="2">Kevin</seller>
+        <where id="HQ">
+            <name>HQ</name>
+            <address>Far side of Eros</address>
+        </where>
+        <items>
+            <item id="BB00032">
+                <name>squestolic</name>
+                <price currency="GBP">1334</price>
+                <quantity>14</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00021">
+                <name>complilatoss</name>
+                <price currency="GBP">739</price>
+                <quantity>6</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00035">
+                <name>penessian</name>
+                <price currency="GBP">1817</price>
+                <quantity>8</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00041">
+                <name>schubrad</name>
+                <price currency="GBP">1722</price>
+                <quantity>9</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00026">
+                <name>beracy</name>
+                <price currency="GBP">1388</price>
+                <quantity>8</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00048">
+                <name>farfum</name>
+                <price currency="GBP">1649</price>
+                <quantity>11</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00029">
+                <name>symbly</name>
+                <price currency="GBP">1269</price>
+                <quantity>7</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00040">
+                <name>charia</name>
+                <price currency="GBP">2344</price>
+                <quantity>12</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00022">
+                <name>bernite</name>
+                <price currency="GBP">2405</price>
+                <quantity>4</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00027">
+                <name>travize</name>
+                <price currency="GBP">1542</price>
+                <quantity>1</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="AA0002">
+                <name>donk</name>
+                <price currency="GBP">235</price>
+                <quantity>10</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00046">
+                <name>bioglinkharmly</name>
+                <price currency="GBP">1960</price>
+                <quantity>9</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00047">
+                <name>pulasmays</name>
+                <price currency="GBP">1278</price>
+                <quantity>2</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="AA0001">
+                <name>spliff</name>
+                <price currency="GBP">235</price>
+                <quantity>11</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00049">
+                <name>macant</name>
+                <price currency="GBP">1820</price>
+                <quantity>13</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00020">
+                <name>kigatings</name>
+                <price currency="GBP">1091</price>
+                <quantity>5</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00042">
+                <name>bakizes</name>
+                <price currency="GBP">935</price>
+                <quantity>8</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00045">
+                <name>eptudolls</name>
+                <price currency="GBP">2041</price>
+                <quantity>7</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="AA0007">
+                <name>cloths</name>
+                <price currency="GBP">235</price>
+                <quantity>2</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00039">
+                <name>ceives</name>
+                <price currency="GBP">1052</price>
+                <quantity>1</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00001">
+                <name>vanding</name>
+                <price currency="GBP">1091</price>
+                <quantity>9</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00025">
+                <name>apperfecoch</name>
+                <price currency="GBP">1409</price>
+                <quantity>6</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00036">
+                <name>lodishors</name>
+                <price currency="GBP">1616</price>
+                <quantity>1</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00034">
+                <name>juncernelsion</name>
+                <price currency="GBP">1511</price>
+                <quantity>9</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00011">
+                <name>infroming</name>
+                <price currency="GBP">1654</price>
+                <quantity>13</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00023">
+                <name>auscriber</name>
+                <price currency="GBP">2396</price>
+                <quantity>7</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00028">
+                <name>rewdlytism</name>
+                <price currency="GBP">1952</price>
+                <quantity>1</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00019">
+                <name>asturnstemish</name>
+                <price currency="GBP">797</price>
+                <quantity>3</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00013">
+                <name>flirriar</name>
+                <price currency="GBP">1474</price>
+                <quantity>13</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00016">
+                <name>expromot</name>
+                <price currency="GBP">1098</price>
+                <quantity>3</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="AA0003">
+                <name>gengja</name>
+                <price currency="GBP">235</price>
+                <quantity>6</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00037">
+                <name>spassomenulled</name>
+                <price currency="GBP">959</price>
+                <quantity>14</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00004">
+                <name>hality</name>
+                <price currency="GBP">1826</price>
+                <quantity>1</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00017">
+                <name>vageneurrives</name>
+                <price currency="GBP">1364</price>
+                <quantity>13</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00014">
+                <name>plebrousions</name>
+                <price currency="GBP">2123</price>
+                <quantity>10</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00006">
+                <name>inspirterrians</name>
+                <price currency="GBP">1882</price>
+                <quantity>6</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00015">
+                <name>thoration</name>
+                <price currency="GBP">1392</price>
+                <quantity>11</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00038">
+                <name>worlantingel</name>
+                <price currency="GBP">809</price>
+                <quantity>12</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00002">
+                <name>rainstover</name>
+                <price currency="GBP">1456</price>
+                <quantity>11</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00018">
+                <name>slacte</name>
+                <price currency="GBP">828</price>
+                <quantity>3</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="AA0005">
+                <name>Evosuite</name>
+                <price currency="GBP">235</price>
+                <quantity>8</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00009">
+                <name>berlsbure</name>
+                <price currency="GBP">2181</price>
+                <quantity>11</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00012">
+                <name>succashitheins</name>
+                <price currency="GBP">996</price>
+                <quantity>14</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00043">
+                <name>spotheatorier</name>
+                <price currency="GBP">2279</price>
+                <quantity>13</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00033">
+                <name>fertebb</name>
+                <price currency="GBP">2037</price>
+                <quantity>8</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00010">
+                <name>chanusly</name>
+                <price currency="GBP">2022</price>
+                <quantity>3</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="AA0004">
+                <name>thingamajigPro</name>
+                <price currency="GBP">235</price>
+                <quantity>12</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00030">
+                <name>gushalized</name>
+                <price currency="GBP">1453</price>
+                <quantity>1</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="AA0006">
+                <name>Transport</name>
+                <price currency="GBP">235</price>
+                <quantity>2</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+        </items>
+    </receipt>
+    <receipt id="2">
+        <when format="YY-mm-dd">2019-07-14</when>
+        <seller id="5">Jess</seller>
+        <where id="P1">
+            <name>Outpost</name>
+            <address>Mars</address>
+        </where>
+        <items>
+            <item id="BB00011">
+                <name>infroming</name>
+                <price currency="GBP">1654</price>
+                <quantity>8</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00031">
+                <name>abbook</name>
+                <price currency="GBP">1469</price>
+                <quantity>12</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00028">
+                <name>rewdlytism</name>
+                <price currency="GBP">1952</price>
+                <quantity>12</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00008">
+                <name>subtrancor</name>
+                <price currency="GBP">2139</price>
+                <quantity>1</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00003">
+                <name>banary</name>
+                <price currency="GBP">2225</price>
+                <quantity>7</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00012">
+                <name>succashitheins</name>
+                <price currency="GBP">996</price>
+                <quantity>8</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00007">
+                <name>triproofes</name>
+                <price currency="GBP">1924</price>
+                <quantity>11</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00046">
+                <name>bioglinkharmly</name>
+                <price currency="GBP">1960</price>
+                <quantity>13</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00002">
+                <name>rainstover</name>
+                <price currency="GBP">1456</price>
+                <quantity>5</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00024">
+                <name>grenared</name>
+                <price currency="GBP">1640</price>
+                <quantity>12</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00021">
+                <name>complilatoss</name>
+                <price currency="GBP">739</price>
+                <quantity>10</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00029">
+                <name>symbly</name>
+                <price currency="GBP">1269</price>
+                <quantity>4</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00038">
+                <name>worlantingel</name>
+                <price currency="GBP">809</price>
+                <quantity>14</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00027">
+                <name>travize</name>
+                <price currency="GBP">1542</price>
+                <quantity>11</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+        </items>
+    </receipt>
+    <receipt id="2">
+        <when format="YY-mm-dd">2019-07-15</when>
+        <seller id="4">Susan</seller>
+        <where id="HQ">
+            <name>HQ</name>
+            <address>Far side of Eros</address>
+        </where>
+        <items>
+            <item id="AA0005">
+                <name>Evosuite</name>
+                <price currency="GBP">235</price>
+                <quantity>2</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="AA0003">
+                <name>gengja</name>
+                <price currency="GBP">235</price>
+                <quantity>4</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00017">
+                <name>vageneurrives</name>
+                <price currency="GBP">1364</price>
+                <quantity>7</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00001">
+                <name>vanding</name>
+                <price currency="GBP">1091</price>
+                <quantity>7</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00016">
+                <name>expromot</name>
+                <price currency="GBP">1098</price>
+                <quantity>4</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00029">
+                <name>symbly</name>
+                <price currency="GBP">1269</price>
+                <quantity>8</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00040">
+                <name>charia</name>
+                <price currency="GBP">2344</price>
+                <quantity>13</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00046">
+                <name>bioglinkharmly</name>
+                <price currency="GBP">1960</price>
+                <quantity>2</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00043">
+                <name>spotheatorier</name>
+                <price currency="GBP">2279</price>
+                <quantity>13</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00014">
+                <name>plebrousions</name>
+                <price currency="GBP">2123</price>
+                <quantity>5</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00036">
+                <name>lodishors</name>
+                <price currency="GBP">1616</price>
+                <quantity>12</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00028">
+                <name>rewdlytism</name>
+                <price currency="GBP">1952</price>
+                <quantity>4</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="AA0007">
+                <name>cloths</name>
+                <price currency="GBP">235</price>
+                <quantity>8</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00005">
+                <name>infitton</name>
+                <price currency="GBP">1701</price>
+                <quantity>8</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="AA0001">
+                <name>spliff</name>
+                <price currency="GBP">235</price>
+                <quantity>3</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="AA0006">
+                <name>Transport</name>
+                <price currency="GBP">235</price>
+                <quantity>13</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00018">
+                <name>slacte</name>
+                <price currency="GBP">828</price>
+                <quantity>5</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00024">
+                <name>grenared</name>
+                <price currency="GBP">1640</price>
+                <quantity>14</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00044">
+                <name>exclain</name>
+                <price currency="GBP">1164</price>
+                <quantity>2</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00032">
+                <name>squestolic</name>
+                <price currency="GBP">1334</price>
+                <quantity>7</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00041">
+                <name>schubrad</name>
+                <price currency="GBP">1722</price>
+                <quantity>12</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00048">
+                <name>farfum</name>
+                <price currency="GBP">1649</price>
+                <quantity>12</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00009">
+                <name>berlsbure</name>
+                <price currency="GBP">2181</price>
+                <quantity>9</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00038">
+                <name>worlantingel</name>
+                <price currency="GBP">809</price>
+                <quantity>4</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00039">
+                <name>ceives</name>
+                <price currency="GBP">1052</price>
+                <quantity>5</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00023">
+                <name>auscriber</name>
+                <price currency="GBP">2396</price>
+                <quantity>7</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="AA0004">
+                <name>thingamajigPro</name>
+                <price currency="GBP">235</price>
+                <quantity>9</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00015">
+                <name>thoration</name>
+                <price currency="GBP">1392</price>
+                <quantity>3</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00047">
+                <name>pulasmays</name>
+                <price currency="GBP">1278</price>
+                <quantity>6</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00033">
+                <name>fertebb</name>
+                <price currency="GBP">2037</price>
+                <quantity>2</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00020">
+                <name>kigatings</name>
+                <price currency="GBP">1091</price>
+                <quantity>7</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00025">
+                <name>apperfecoch</name>
+                <price currency="GBP">1409</price>
+                <quantity>10</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00004">
+                <name>hality</name>
+                <price currency="GBP">1826</price>
+                <quantity>12</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00002">
+                <name>rainstover</name>
+                <price currency="GBP">1456</price>
+                <quantity>3</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00013">
+                <name>flirriar</name>
+                <price currency="GBP">1474</price>
+                <quantity>11</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="AA0002">
+                <name>donk</name>
+                <price currency="GBP">235</price>
+                <quantity>8</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00021">
+                <name>complilatoss</name>
+                <price currency="GBP">739</price>
+                <quantity>4</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00012">
+                <name>succashitheins</name>
+                <price currency="GBP">996</price>
+                <quantity>5</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00008">
+                <name>subtrancor</name>
+                <price currency="GBP">2139</price>
+                <quantity>7</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00006">
+                <name>inspirterrians</name>
+                <price currency="GBP">1882</price>
+                <quantity>3</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00037">
+                <name>spassomenulled</name>
+                <price currency="GBP">959</price>
+                <quantity>1</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00010">
+                <name>chanusly</name>
+                <price currency="GBP">2022</price>
+                <quantity>1</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00035">
+                <name>penessian</name>
+                <price currency="GBP">1817</price>
+                <quantity>2</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00026">
+                <name>beracy</name>
+                <price currency="GBP">1388</price>
+                <quantity>3</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00022">
+                <name>bernite</name>
+                <price currency="GBP">2405</price>
+                <quantity>13</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00031">
+                <name>abbook</name>
+                <price currency="GBP">1469</price>
+                <quantity>12</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00000">
+                <name>moterved</name>
+                <price currency="GBP">1432</price>
+                <quantity>10</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00011">
+                <name>infroming</name>
+                <price currency="GBP">1654</price>
+                <quantity>3</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00027">
+                <name>travize</name>
+                <price currency="GBP">1542</price>
+                <quantity>10</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00003">
+                <name>banary</name>
+                <price currency="GBP">2225</price>
+                <quantity>8</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00007">
+                <name>triproofes</name>
+                <price currency="GBP">1924</price>
+                <quantity>14</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00042">
+                <name>bakizes</name>
+                <price currency="GBP">935</price>
+                <quantity>7</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00049">
+                <name>macant</name>
+                <price currency="GBP">1820</price>
+                <quantity>8</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00045">
+                <name>eptudolls</name>
+                <price currency="GBP">2041</price>
+                <quantity>12</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00030">
+                <name>gushalized</name>
+                <price currency="GBP">1453</price>
+                <quantity>9</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00034">
+                <name>juncernelsion</name>
+                <price currency="GBP">1511</price>
+                <quantity>9</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+        </items>
+    </receipt>
+    <receipt id="2">
+        <when format="YY-mm-dd">2019-07-16</when>
+        <seller id="7">Olga</seller>
+        <where id="Ice">
+            <name>Cold place</name>
+            <address>Reykjavik</address>
+        </where>
+        <items>
+            <item id="BB00039">
+                <name>ceives</name>
+                <price currency="GBP">1052</price>
+                <quantity>14</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00045">
+                <name>eptudolls</name>
+                <price currency="GBP">2041</price>
+                <quantity>9</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00000">
+                <name>moterved</name>
+                <price currency="GBP">1432</price>
+                <quantity>1</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00034">
+                <name>juncernelsion</name>
+                <price currency="GBP">1511</price>
+                <quantity>6</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00044">
+                <name>exclain</name>
+                <price currency="GBP">1164</price>
+                <quantity>10</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="AA0005">
+                <name>Evosuite</name>
+                <price currency="GBP">235</price>
+                <quantity>5</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00046">
+                <name>bioglinkharmly</name>
+                <price currency="GBP">1960</price>
+                <quantity>6</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00007">
+                <name>triproofes</name>
+                <price currency="GBP">1924</price>
+                <quantity>2</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00033">
+                <name>fertebb</name>
+                <price currency="GBP">2037</price>
+                <quantity>1</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00005">
+                <name>infitton</name>
+                <price currency="GBP">1701</price>
+                <quantity>9</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00043">
+                <name>spotheatorier</name>
+                <price currency="GBP">2279</price>
+                <quantity>1</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+        </items>
+    </receipt>
+    <receipt id="2">
+        <when format="YY-mm-dd">2019-07-17</when>
+        <seller id="1">Saemi</seller>
+        <where id="MIT">
+            <name>MIT</name>
+            <address>Boston</address>
+        </where>
+        <items>
+            <item id="BB00025">
+                <name>apperfecoch</name>
+                <price currency="GBP">1409</price>
+                <quantity>14</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00006">
+                <name>inspirterrians</name>
+                <price currency="GBP">1882</price>
+                <quantity>12</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00029">
+                <name>symbly</name>
+                <price currency="GBP">1269</price>
+                <quantity>1</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00049">
+                <name>macant</name>
+                <price currency="GBP">1820</price>
+                <quantity>1</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00023">
+                <name>auscriber</name>
+                <price currency="GBP">2396</price>
+                <quantity>10</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00027">
+                <name>travize</name>
+                <price currency="GBP">1542</price>
+                <quantity>13</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00000">
+                <name>moterved</name>
+                <price currency="GBP">1432</price>
+                <quantity>4</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00026">
+                <name>beracy</name>
+                <price currency="GBP">1388</price>
+                <quantity>3</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00039">
+                <name>ceives</name>
+                <price currency="GBP">1052</price>
+                <quantity>14</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00041">
+                <name>schubrad</name>
+                <price currency="GBP">1722</price>
+                <quantity>7</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00011">
+                <name>infroming</name>
+                <price currency="GBP">1654</price>
+                <quantity>7</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00031">
+                <name>abbook</name>
+                <price currency="GBP">1469</price>
+                <quantity>11</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00036">
+                <name>lodishors</name>
+                <price currency="GBP">1616</price>
+                <quantity>13</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="AA0004">
+                <name>thingamajigPro</name>
+                <price currency="GBP">235</price>
+                <quantity>5</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00021">
+                <name>complilatoss</name>
+                <price currency="GBP">739</price>
+                <quantity>9</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00012">
+                <name>succashitheins</name>
+                <price currency="GBP">996</price>
+                <quantity>4</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00040">
+                <name>charia</name>
+                <price currency="GBP">2344</price>
+                <quantity>13</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="AA0002">
+                <name>donk</name>
+                <price currency="GBP">235</price>
+                <quantity>5</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00018">
+                <name>slacte</name>
+                <price currency="GBP">828</price>
+                <quantity>4</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="AA0001">
+                <name>spliff</name>
+                <price currency="GBP">235</price>
+                <quantity>8</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00034">
+                <name>juncernelsion</name>
+                <price currency="GBP">1511</price>
+                <quantity>14</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00013">
+                <name>flirriar</name>
+                <price currency="GBP">1474</price>
+                <quantity>1</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00028">
+                <name>rewdlytism</name>
+                <price currency="GBP">1952</price>
+                <quantity>13</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="AA0007">
+                <name>cloths</name>
+                <price currency="GBP">235</price>
+                <quantity>10</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00003">
+                <name>banary</name>
+                <price currency="GBP">2225</price>
+                <quantity>2</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00007">
+                <name>triproofes</name>
+                <price currency="GBP">1924</price>
+                <quantity>5</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00035">
+                <name>penessian</name>
+                <price currency="GBP">1817</price>
+                <quantity>7</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00048">
+                <name>farfum</name>
+                <price currency="GBP">1649</price>
+                <quantity>4</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00024">
+                <name>grenared</name>
+                <price currency="GBP">1640</price>
+                <quantity>9</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="AA0003">
+                <name>gengja</name>
+                <price currency="GBP">235</price>
+                <quantity>8</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00019">
+                <name>asturnstemish</name>
+                <price currency="GBP">797</price>
+                <quantity>11</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00014">
+                <name>plebrousions</name>
+                <price currency="GBP">2123</price>
+                <quantity>2</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00045">
+                <name>eptudolls</name>
+                <price currency="GBP">2041</price>
+                <quantity>11</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+        </items>
+    </receipt>
+    <receipt id="2">
+        <when format="YY-mm-dd">2019-07-18</when>
+        <seller id="6">Catherine</seller>
+        <where id="P1">
+            <name>Outpost</name>
+            <address>Mars</address>
+        </where>
+        <items>
+            <item id="BB00009">
+                <name>berlsbure</name>
+                <price currency="GBP">2181</price>
+                <quantity>11</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00032">
+                <name>squestolic</name>
+                <price currency="GBP">1334</price>
+                <quantity>1</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00010">
+                <name>chanusly</name>
+                <price currency="GBP">2022</price>
+                <quantity>7</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00014">
+                <name>plebrousions</name>
+                <price currency="GBP">2123</price>
+                <quantity>1</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00036">
+                <name>lodishors</name>
+                <price currency="GBP">1616</price>
+                <quantity>5</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00047">
+                <name>pulasmays</name>
+                <price currency="GBP">1278</price>
+                <quantity>11</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00008">
+                <name>subtrancor</name>
+                <price currency="GBP">2139</price>
+                <quantity>8</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="AA0003">
+                <name>gengja</name>
+                <price currency="GBP">235</price>
+                <quantity>9</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00012">
+                <name>succashitheins</name>
+                <price currency="GBP">996</price>
+                <quantity>6</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00005">
+                <name>infitton</name>
+                <price currency="GBP">1701</price>
+                <quantity>3</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00040">
+                <name>charia</name>
+                <price currency="GBP">2344</price>
+                <quantity>14</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00037">
+                <name>spassomenulled</name>
+                <price currency="GBP">959</price>
+                <quantity>6</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00048">
+                <name>farfum</name>
+                <price currency="GBP">1649</price>
+                <quantity>12</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00013">
+                <name>flirriar</name>
+                <price currency="GBP">1474</price>
+                <quantity>11</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00023">
+                <name>auscriber</name>
+                <price currency="GBP">2396</price>
+                <quantity>8</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+        </items>
+    </receipt>
+    <receipt id="2">
+        <when format="YY-mm-dd">2019-07-19</when>
+        <seller id="1">Saemi</seller>
+        <where id="HQ">
+            <name>HQ</name>
+            <address>Far side of Eros</address>
+        </where>
+        <items>
+            <item id="BB00025">
+                <name>apperfecoch</name>
+                <price currency="GBP">1409</price>
+                <quantity>12</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00033">
+                <name>fertebb</name>
+                <price currency="GBP">2037</price>
+                <quantity>13</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00006">
+                <name>inspirterrians</name>
+                <price currency="GBP">1882</price>
+                <quantity>7</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="AA0006">
+                <name>Transport</name>
+                <price currency="GBP">235</price>
+                <quantity>9</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00032">
+                <name>squestolic</name>
+                <price currency="GBP">1334</price>
+                <quantity>6</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00046">
+                <name>bioglinkharmly</name>
+                <price currency="GBP">1960</price>
+                <quantity>6</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00047">
+                <name>pulasmays</name>
+                <price currency="GBP">1278</price>
+                <quantity>4</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00041">
+                <name>schubrad</name>
+                <price currency="GBP">1722</price>
+                <quantity>9</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00000">
+                <name>moterved</name>
+                <price currency="GBP">1432</price>
+                <quantity>6</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00012">
+                <name>succashitheins</name>
+                <price currency="GBP">996</price>
+                <quantity>11</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00028">
+                <name>rewdlytism</name>
+                <price currency="GBP">1952</price>
+                <quantity>6</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00037">
+                <name>spassomenulled</name>
+                <price currency="GBP">959</price>
+                <quantity>12</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="AA0005">
+                <name>Evosuite</name>
+                <price currency="GBP">235</price>
+                <quantity>11</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00048">
+                <name>farfum</name>
+                <price currency="GBP">1649</price>
+                <quantity>9</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00001">
+                <name>vanding</name>
+                <price currency="GBP">1091</price>
+                <quantity>6</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00019">
+                <name>asturnstemish</name>
+                <price currency="GBP">797</price>
+                <quantity>5</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00009">
+                <name>berlsbure</name>
+                <price currency="GBP">2181</price>
+                <quantity>12</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00040">
+                <name>charia</name>
+                <price currency="GBP">2344</price>
+                <quantity>8</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00029">
+                <name>symbly</name>
+                <price currency="GBP">1269</price>
+                <quantity>10</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00002">
+                <name>rainstover</name>
+                <price currency="GBP">1456</price>
+                <quantity>7</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="AA0001">
+                <name>spliff</name>
+                <price currency="GBP">235</price>
+                <quantity>13</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="AA0003">
+                <name>gengja</name>
+                <price currency="GBP">235</price>
+                <quantity>10</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00035">
+                <name>penessian</name>
+                <price currency="GBP">1817</price>
+                <quantity>3</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00024">
+                <name>grenared</name>
+                <price currency="GBP">1640</price>
+                <quantity>8</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00007">
+                <name>triproofes</name>
+                <price currency="GBP">1924</price>
+                <quantity>6</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00034">
+                <name>juncernelsion</name>
+                <price currency="GBP">1511</price>
+                <quantity>1</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00038">
+                <name>worlantingel</name>
+                <price currency="GBP">809</price>
+                <quantity>6</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00027">
+                <name>travize</name>
+                <price currency="GBP">1542</price>
+                <quantity>12</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="AA0004">
+                <name>thingamajigPro</name>
+                <price currency="GBP">235</price>
+                <quantity>1</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00010">
+                <name>chanusly</name>
+                <price currency="GBP">2022</price>
+                <quantity>13</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00039">
+                <name>ceives</name>
+                <price currency="GBP">1052</price>
+                <quantity>5</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00003">
+                <name>banary</name>
+                <price currency="GBP">2225</price>
+                <quantity>11</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00018">
+                <name>slacte</name>
+                <price currency="GBP">828</price>
+                <quantity>14</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00023">
+                <name>auscriber</name>
+                <price currency="GBP">2396</price>
+                <quantity>9</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00042">
+                <name>bakizes</name>
+                <price currency="GBP">935</price>
+                <quantity>2</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00014">
+                <name>plebrousions</name>
+                <price currency="GBP">2123</price>
+                <quantity>4</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00021">
+                <name>complilatoss</name>
+                <price currency="GBP">739</price>
+                <quantity>11</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00045">
+                <name>eptudolls</name>
+                <price currency="GBP">2041</price>
+                <quantity>9</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00043">
+                <name>spotheatorier</name>
+                <price currency="GBP">2279</price>
+                <quantity>1</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00005">
+                <name>infitton</name>
+                <price currency="GBP">1701</price>
+                <quantity>8</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00008">
+                <name>subtrancor</name>
+                <price currency="GBP">2139</price>
+                <quantity>10</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="AA0007">
+                <name>cloths</name>
+                <price currency="GBP">235</price>
+                <quantity>2</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00044">
+                <name>exclain</name>
+                <price currency="GBP">1164</price>
+                <quantity>2</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00020">
+                <name>kigatings</name>
+                <price currency="GBP">1091</price>
+                <quantity>5</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00049">
+                <name>macant</name>
+                <price currency="GBP">1820</price>
+                <quantity>4</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00026">
+                <name>beracy</name>
+                <price currency="GBP">1388</price>
+                <quantity>2</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00013">
+                <name>flirriar</name>
+                <price currency="GBP">1474</price>
+                <quantity>11</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00017">
+                <name>vageneurrives</name>
+                <price currency="GBP">1364</price>
+                <quantity>13</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00015">
+                <name>thoration</name>
+                <price currency="GBP">1392</price>
+                <quantity>10</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00011">
+                <name>infroming</name>
+                <price currency="GBP">1654</price>
+                <quantity>3</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00030">
+                <name>gushalized</name>
+                <price currency="GBP">1453</price>
+                <quantity>5</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="AA0002">
+                <name>donk</name>
+                <price currency="GBP">235</price>
+                <quantity>9</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+        </items>
+    </receipt>
+    <receipt id="2">
+        <when format="YY-mm-dd">2019-07-20</when>
+        <seller id="3">Harry</seller>
+        <where id="PE">
+            <name>Planet express</name>
+            <address>New New York</address>
+        </where>
+        <items>
+            <item id="BB00011">
+                <name>infroming</name>
+                <price currency="GBP">1654</price>
+                <quantity>1</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00044">
+                <name>exclain</name>
+                <price currency="GBP">1164</price>
+                <quantity>4</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00005">
+                <name>infitton</name>
+                <price currency="GBP">1701</price>
+                <quantity>10</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00031">
+                <name>abbook</name>
+                <price currency="GBP">1469</price>
+                <quantity>8</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00033">
+                <name>fertebb</name>
+                <price currency="GBP">2037</price>
+                <quantity>3</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00041">
+                <name>schubrad</name>
+                <price currency="GBP">1722</price>
+                <quantity>8</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00030">
+                <name>gushalized</name>
+                <price currency="GBP">1453</price>
+                <quantity>8</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="AA0001">
+                <name>spliff</name>
+                <price currency="GBP">235</price>
+                <quantity>7</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="AA0007">
+                <name>cloths</name>
+                <price currency="GBP">235</price>
+                <quantity>9</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00017">
+                <name>vageneurrives</name>
+                <price currency="GBP">1364</price>
+                <quantity>6</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00043">
+                <name>spotheatorier</name>
+                <price currency="GBP">2279</price>
+                <quantity>5</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00013">
+                <name>flirriar</name>
+                <price currency="GBP">1474</price>
+                <quantity>3</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00035">
+                <name>penessian</name>
+                <price currency="GBP">1817</price>
+                <quantity>12</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00038">
+                <name>worlantingel</name>
+                <price currency="GBP">809</price>
+                <quantity>10</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="AA0006">
+                <name>Transport</name>
+                <price currency="GBP">235</price>
+                <quantity>3</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00036">
+                <name>lodishors</name>
+                <price currency="GBP">1616</price>
+                <quantity>11</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00022">
+                <name>bernite</name>
+                <price currency="GBP">2405</price>
+                <quantity>4</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00021">
+                <name>complilatoss</name>
+                <price currency="GBP">739</price>
+                <quantity>7</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00049">
+                <name>macant</name>
+                <price currency="GBP">1820</price>
+                <quantity>2</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00009">
+                <name>berlsbure</name>
+                <price currency="GBP">2181</price>
+                <quantity>5</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00048">
+                <name>farfum</name>
+                <price currency="GBP">1649</price>
+                <quantity>7</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00026">
+                <name>beracy</name>
+                <price currency="GBP">1388</price>
+                <quantity>7</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00014">
+                <name>plebrousions</name>
+                <price currency="GBP">2123</price>
+                <quantity>8</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00008">
+                <name>subtrancor</name>
+                <price currency="GBP">2139</price>
+                <quantity>11</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00025">
+                <name>apperfecoch</name>
+                <price currency="GBP">1409</price>
+                <quantity>6</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00040">
+                <name>charia</name>
+                <price currency="GBP">2344</price>
+                <quantity>2</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00024">
+                <name>grenared</name>
+                <price currency="GBP">1640</price>
+                <quantity>3</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00007">
+                <name>triproofes</name>
+                <price currency="GBP">1924</price>
+                <quantity>14</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00012">
+                <name>succashitheins</name>
+                <price currency="GBP">996</price>
+                <quantity>12</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00037">
+                <name>spassomenulled</name>
+                <price currency="GBP">959</price>
+                <quantity>10</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="AA0005">
+                <name>Evosuite</name>
+                <price currency="GBP">235</price>
+                <quantity>9</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00018">
+                <name>slacte</name>
+                <price currency="GBP">828</price>
+                <quantity>1</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00047">
+                <name>pulasmays</name>
+                <price currency="GBP">1278</price>
+                <quantity>10</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00020">
+                <name>kigatings</name>
+                <price currency="GBP">1091</price>
+                <quantity>2</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00039">
+                <name>ceives</name>
+                <price currency="GBP">1052</price>
+                <quantity>1</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00028">
+                <name>rewdlytism</name>
+                <price currency="GBP">1952</price>
+                <quantity>4</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="AA0002">
+                <name>donk</name>
+                <price currency="GBP">235</price>
+                <quantity>6</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="AA0004">
+                <name>thingamajigPro</name>
+                <price currency="GBP">235</price>
+                <quantity>9</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00046">
+                <name>bioglinkharmly</name>
+                <price currency="GBP">1960</price>
+                <quantity>13</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00006">
+                <name>inspirterrians</name>
+                <price currency="GBP">1882</price>
+                <quantity>4</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00003">
+                <name>banary</name>
+                <price currency="GBP">2225</price>
+                <quantity>2</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+        </items>
+    </receipt>
+    <receipt id="2">
+        <when format="YY-mm-dd">2019-07-21</when>
+        <seller id="4">Susan</seller>
+        <where id="Ice">
+            <name>Cold place</name>
+            <address>Reykjavik</address>
+        </where>
+        <items>
+            <item id="BB00020">
+                <name>kigatings</name>
+                <price currency="GBP">1091</price>
+                <quantity>5</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00045">
+                <name>eptudolls</name>
+                <price currency="GBP">2041</price>
+                <quantity>8</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00043">
+                <name>spotheatorier</name>
+                <price currency="GBP">2279</price>
+                <quantity>6</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00039">
+                <name>ceives</name>
+                <price currency="GBP">1052</price>
+                <quantity>9</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="AA0004">
+                <name>thingamajigPro</name>
+                <price currency="GBP">235</price>
+                <quantity>2</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00008">
+                <name>subtrancor</name>
+                <price currency="GBP">2139</price>
+                <quantity>14</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00016">
+                <name>expromot</name>
+                <price currency="GBP">1098</price>
+                <quantity>8</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="AA0001">
+                <name>spliff</name>
+                <price currency="GBP">235</price>
+                <quantity>14</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00038">
+                <name>worlantingel</name>
+                <price currency="GBP">809</price>
+                <quantity>14</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00001">
+                <name>vanding</name>
+                <price currency="GBP">1091</price>
+                <quantity>14</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00034">
+                <name>juncernelsion</name>
+                <price currency="GBP">1511</price>
+                <quantity>4</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00031">
+                <name>abbook</name>
+                <price currency="GBP">1469</price>
+                <quantity>8</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00005">
+                <name>infitton</name>
+                <price currency="GBP">1701</price>
+                <quantity>3</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00048">
+                <name>farfum</name>
+                <price currency="GBP">1649</price>
+                <quantity>9</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00040">
+                <name>charia</name>
+                <price currency="GBP">2344</price>
+                <quantity>7</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00046">
+                <name>bioglinkharmly</name>
+                <price currency="GBP">1960</price>
+                <quantity>11</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00041">
+                <name>schubrad</name>
+                <price currency="GBP">1722</price>
+                <quantity>10</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00002">
+                <name>rainstover</name>
+                <price currency="GBP">1456</price>
+                <quantity>2</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="AA0005">
+                <name>Evosuite</name>
+                <price currency="GBP">235</price>
+                <quantity>5</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00006">
+                <name>inspirterrians</name>
+                <price currency="GBP">1882</price>
+                <quantity>14</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="AA0002">
+                <name>donk</name>
+                <price currency="GBP">235</price>
+                <quantity>4</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00028">
+                <name>rewdlytism</name>
+                <price currency="GBP">1952</price>
+                <quantity>1</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00015">
+                <name>thoration</name>
+                <price currency="GBP">1392</price>
+                <quantity>10</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00024">
+                <name>grenared</name>
+                <price currency="GBP">1640</price>
+                <quantity>11</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00009">
+                <name>berlsbure</name>
+                <price currency="GBP">2181</price>
+                <quantity>10</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00011">
+                <name>infroming</name>
+                <price currency="GBP">1654</price>
+                <quantity>1</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="AA0003">
+                <name>gengja</name>
+                <price currency="GBP">235</price>
+                <quantity>6</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00025">
+                <name>apperfecoch</name>
+                <price currency="GBP">1409</price>
+                <quantity>1</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00047">
+                <name>pulasmays</name>
+                <price currency="GBP">1278</price>
+                <quantity>5</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00012">
+                <name>succashitheins</name>
+                <price currency="GBP">996</price>
+                <quantity>10</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00023">
+                <name>auscriber</name>
+                <price currency="GBP">2396</price>
+                <quantity>12</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00036">
+                <name>lodishors</name>
+                <price currency="GBP">1616</price>
+                <quantity>1</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00032">
+                <name>squestolic</name>
+                <price currency="GBP">1334</price>
+                <quantity>10</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00042">
+                <name>bakizes</name>
+                <price currency="GBP">935</price>
+                <quantity>7</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00017">
+                <name>vageneurrives</name>
+                <price currency="GBP">1364</price>
+                <quantity>10</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00013">
+                <name>flirriar</name>
+                <price currency="GBP">1474</price>
+                <quantity>4</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00033">
+                <name>fertebb</name>
+                <price currency="GBP">2037</price>
+                <quantity>4</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="AA0007">
+                <name>cloths</name>
+                <price currency="GBP">235</price>
+                <quantity>12</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00010">
+                <name>chanusly</name>
+                <price currency="GBP">2022</price>
+                <quantity>10</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00022">
+                <name>bernite</name>
+                <price currency="GBP">2405</price>
+                <quantity>14</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00004">
+                <name>hality</name>
+                <price currency="GBP">1826</price>
+                <quantity>2</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00035">
+                <name>penessian</name>
+                <price currency="GBP">1817</price>
+                <quantity>8</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+        </items>
+    </receipt>
+    <receipt id="2">
+        <when format="YY-mm-dd">2019-07-22</when>
+        <seller id="2">Kevin</seller>
+        <where id="PE">
+            <name>Planet express</name>
+            <address>New New York</address>
+        </where>
+        <items>
+            <item id="BB00014">
+                <name>plebrousions</name>
+                <price currency="GBP">2123</price>
+                <quantity>5</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00031">
+                <name>abbook</name>
+                <price currency="GBP">1469</price>
+                <quantity>13</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00003">
+                <name>banary</name>
+                <price currency="GBP">2225</price>
+                <quantity>8</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00005">
+                <name>infitton</name>
+                <price currency="GBP">1701</price>
+                <quantity>6</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00045">
+                <name>eptudolls</name>
+                <price currency="GBP">2041</price>
+                <quantity>11</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="AA0001">
+                <name>spliff</name>
+                <price currency="GBP">235</price>
+                <quantity>13</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00034">
+                <name>juncernelsion</name>
+                <price currency="GBP">1511</price>
+                <quantity>1</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00012">
+                <name>succashitheins</name>
+                <price currency="GBP">996</price>
+                <quantity>14</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00033">
+                <name>fertebb</name>
+                <price currency="GBP">2037</price>
+                <quantity>2</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00004">
+                <name>hality</name>
+                <price currency="GBP">1826</price>
+                <quantity>9</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00017">
+                <name>vageneurrives</name>
+                <price currency="GBP">1364</price>
+                <quantity>10</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00028">
+                <name>rewdlytism</name>
+                <price currency="GBP">1952</price>
+                <quantity>13</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00029">
+                <name>symbly</name>
+                <price currency="GBP">1269</price>
+                <quantity>1</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00020">
+                <name>kigatings</name>
+                <price currency="GBP">1091</price>
+                <quantity>10</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00002">
+                <name>rainstover</name>
+                <price currency="GBP">1456</price>
+                <quantity>2</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00040">
+                <name>charia</name>
+                <price currency="GBP">2344</price>
+                <quantity>4</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00013">
+                <name>flirriar</name>
+                <price currency="GBP">1474</price>
+                <quantity>6</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00000">
+                <name>moterved</name>
+                <price currency="GBP">1432</price>
+                <quantity>14</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00009">
+                <name>berlsbure</name>
+                <price currency="GBP">2181</price>
+                <quantity>7</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00044">
+                <name>exclain</name>
+                <price currency="GBP">1164</price>
+                <quantity>4</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00026">
+                <name>beracy</name>
+                <price currency="GBP">1388</price>
+                <quantity>10</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="AA0005">
+                <name>Evosuite</name>
+                <price currency="GBP">235</price>
+                <quantity>5</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00024">
+                <name>grenared</name>
+                <price currency="GBP">1640</price>
+                <quantity>8</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00016">
+                <name>expromot</name>
+                <price currency="GBP">1098</price>
+                <quantity>2</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00030">
+                <name>gushalized</name>
+                <price currency="GBP">1453</price>
+                <quantity>2</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00007">
+                <name>triproofes</name>
+                <price currency="GBP">1924</price>
+                <quantity>7</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00043">
+                <name>spotheatorier</name>
+                <price currency="GBP">2279</price>
+                <quantity>12</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00049">
+                <name>macant</name>
+                <price currency="GBP">1820</price>
+                <quantity>13</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00046">
+                <name>bioglinkharmly</name>
+                <price currency="GBP">1960</price>
+                <quantity>14</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00037">
+                <name>spassomenulled</name>
+                <price currency="GBP">959</price>
+                <quantity>6</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00036">
+                <name>lodishors</name>
+                <price currency="GBP">1616</price>
+                <quantity>2</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00042">
+                <name>bakizes</name>
+                <price currency="GBP">935</price>
+                <quantity>11</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00038">
+                <name>worlantingel</name>
+                <price currency="GBP">809</price>
+                <quantity>10</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00039">
+                <name>ceives</name>
+                <price currency="GBP">1052</price>
+                <quantity>8</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00035">
+                <name>penessian</name>
+                <price currency="GBP">1817</price>
+                <quantity>5</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00010">
+                <name>chanusly</name>
+                <price currency="GBP">2022</price>
+                <quantity>4</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00015">
+                <name>thoration</name>
+                <price currency="GBP">1392</price>
+                <quantity>11</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00001">
+                <name>vanding</name>
+                <price currency="GBP">1091</price>
+                <quantity>1</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00047">
+                <name>pulasmays</name>
+                <price currency="GBP">1278</price>
+                <quantity>5</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00023">
+                <name>auscriber</name>
+                <price currency="GBP">2396</price>
+                <quantity>10</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00011">
+                <name>infroming</name>
+                <price currency="GBP">1654</price>
+                <quantity>2</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00041">
+                <name>schubrad</name>
+                <price currency="GBP">1722</price>
+                <quantity>1</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00022">
+                <name>bernite</name>
+                <price currency="GBP">2405</price>
+                <quantity>13</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="AA0002">
+                <name>donk</name>
+                <price currency="GBP">235</price>
+                <quantity>4</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00019">
+                <name>asturnstemish</name>
+                <price currency="GBP">797</price>
+                <quantity>6</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="AA0007">
+                <name>cloths</name>
+                <price currency="GBP">235</price>
+                <quantity>2</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00048">
+                <name>farfum</name>
+                <price currency="GBP">1649</price>
+                <quantity>4</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="AA0003">
+                <name>gengja</name>
+                <price currency="GBP">235</price>
+                <quantity>7</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00006">
+                <name>inspirterrians</name>
+                <price currency="GBP">1882</price>
+                <quantity>8</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="AA0006">
+                <name>Transport</name>
+                <price currency="GBP">235</price>
+                <quantity>4</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+        </items>
+    </receipt>
+    <receipt id="2">
+        <when format="YY-mm-dd">2019-07-23</when>
+        <seller id="4">Susan</seller>
+        <where id="PE">
+            <name>Planet express</name>
+            <address>New New York</address>
+        </where>
+        <items>
+            <item id="BB00010">
+                <name>chanusly</name>
+                <price currency="GBP">2022</price>
+                <quantity>2</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00028">
+                <name>rewdlytism</name>
+                <price currency="GBP">1952</price>
+                <quantity>2</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00023">
+                <name>auscriber</name>
+                <price currency="GBP">2396</price>
+                <quantity>6</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="AA0005">
+                <name>Evosuite</name>
+                <price currency="GBP">235</price>
+                <quantity>12</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00039">
+                <name>ceives</name>
+                <price currency="GBP">1052</price>
+                <quantity>3</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00007">
+                <name>triproofes</name>
+                <price currency="GBP">1924</price>
+                <quantity>8</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00029">
+                <name>symbly</name>
+                <price currency="GBP">1269</price>
+                <quantity>5</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00000">
+                <name>moterved</name>
+                <price currency="GBP">1432</price>
+                <quantity>1</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00001">
+                <name>vanding</name>
+                <price currency="GBP">1091</price>
+                <quantity>1</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00044">
+                <name>exclain</name>
+                <price currency="GBP">1164</price>
+                <quantity>11</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00041">
+                <name>schubrad</name>
+                <price currency="GBP">1722</price>
+                <quantity>14</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00004">
+                <name>hality</name>
+                <price currency="GBP">1826</price>
+                <quantity>5</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00011">
+                <name>infroming</name>
+                <price currency="GBP">1654</price>
+                <quantity>10</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00049">
+                <name>macant</name>
+                <price currency="GBP">1820</price>
+                <quantity>12</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00047">
+                <name>pulasmays</name>
+                <price currency="GBP">1278</price>
+                <quantity>12</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00008">
+                <name>subtrancor</name>
+                <price currency="GBP">2139</price>
+                <quantity>12</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="AA0001">
+                <name>spliff</name>
+                <price currency="GBP">235</price>
+                <quantity>10</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00002">
+                <name>rainstover</name>
+                <price currency="GBP">1456</price>
+                <quantity>14</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00003">
+                <name>banary</name>
+                <price currency="GBP">2225</price>
+                <quantity>1</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="AA0006">
+                <name>Transport</name>
+                <price currency="GBP">235</price>
+                <quantity>10</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00035">
+                <name>penessian</name>
+                <price currency="GBP">1817</price>
+                <quantity>10</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="AA0002">
+                <name>donk</name>
+                <price currency="GBP">235</price>
+                <quantity>11</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00025">
+                <name>apperfecoch</name>
+                <price currency="GBP">1409</price>
+                <quantity>8</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00036">
+                <name>lodishors</name>
+                <price currency="GBP">1616</price>
+                <quantity>13</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00030">
+                <name>gushalized</name>
+                <price currency="GBP">1453</price>
+                <quantity>6</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00006">
+                <name>inspirterrians</name>
+                <price currency="GBP">1882</price>
+                <quantity>2</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="AA0003">
+                <name>gengja</name>
+                <price currency="GBP">235</price>
+                <quantity>9</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00014">
+                <name>plebrousions</name>
+                <price currency="GBP">2123</price>
+                <quantity>6</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00045">
+                <name>eptudolls</name>
+                <price currency="GBP">2041</price>
+                <quantity>5</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00032">
+                <name>squestolic</name>
+                <price currency="GBP">1334</price>
+                <quantity>13</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="AA0004">
+                <name>thingamajigPro</name>
+                <price currency="GBP">235</price>
+                <quantity>10</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00022">
+                <name>bernite</name>
+                <price currency="GBP">2405</price>
+                <quantity>10</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00019">
+                <name>asturnstemish</name>
+                <price currency="GBP">797</price>
+                <quantity>1</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00048">
+                <name>farfum</name>
+                <price currency="GBP">1649</price>
+                <quantity>6</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00012">
+                <name>succashitheins</name>
+                <price currency="GBP">996</price>
+                <quantity>7</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00024">
+                <name>grenared</name>
+                <price currency="GBP">1640</price>
+                <quantity>13</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00026">
+                <name>beracy</name>
+                <price currency="GBP">1388</price>
+                <quantity>11</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00046">
+                <name>bioglinkharmly</name>
+                <price currency="GBP">1960</price>
+                <quantity>13</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00031">
+                <name>abbook</name>
+                <price currency="GBP">1469</price>
+                <quantity>8</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00005">
+                <name>infitton</name>
+                <price currency="GBP">1701</price>
+                <quantity>5</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00013">
+                <name>flirriar</name>
+                <price currency="GBP">1474</price>
+                <quantity>1</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00020">
+                <name>kigatings</name>
+                <price currency="GBP">1091</price>
+                <quantity>10</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00034">
+                <name>juncernelsion</name>
+                <price currency="GBP">1511</price>
+                <quantity>7</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00015">
+                <name>thoration</name>
+                <price currency="GBP">1392</price>
+                <quantity>1</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+        </items>
+    </receipt>
+    <receipt id="2">
+        <when format="YY-mm-dd">2019-07-24</when>
+        <seller id="0">John</seller>
+        <where id="Ice">
+            <name>Cold place</name>
+            <address>Reykjavik</address>
+        </where>
+        <items>
+            <item id="BB00019">
+                <name>asturnstemish</name>
+                <price currency="GBP">797</price>
+                <quantity>13</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00035">
+                <name>penessian</name>
+                <price currency="GBP">1817</price>
+                <quantity>8</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00046">
+                <name>bioglinkharmly</name>
+                <price currency="GBP">1960</price>
+                <quantity>2</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00038">
+                <name>worlantingel</name>
+                <price currency="GBP">809</price>
+                <quantity>2</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00004">
+                <name>hality</name>
+                <price currency="GBP">1826</price>
+                <quantity>10</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00000">
+                <name>moterved</name>
+                <price currency="GBP">1432</price>
+                <quantity>8</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00034">
+                <name>juncernelsion</name>
+                <price currency="GBP">1511</price>
+                <quantity>10</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00010">
+                <name>chanusly</name>
+                <price currency="GBP">2022</price>
+                <quantity>5</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00003">
+                <name>banary</name>
+                <price currency="GBP">2225</price>
+                <quantity>1</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00033">
+                <name>fertebb</name>
+                <price currency="GBP">2037</price>
+                <quantity>3</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00045">
+                <name>eptudolls</name>
+                <price currency="GBP">2041</price>
+                <quantity>11</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00028">
+                <name>rewdlytism</name>
+                <price currency="GBP">1952</price>
+                <quantity>3</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00026">
+                <name>beracy</name>
+                <price currency="GBP">1388</price>
+                <quantity>4</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="AA0001">
+                <name>spliff</name>
+                <price currency="GBP">235</price>
+                <quantity>4</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00027">
+                <name>travize</name>
+                <price currency="GBP">1542</price>
+                <quantity>12</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00006">
+                <name>inspirterrians</name>
+                <price currency="GBP">1882</price>
+                <quantity>8</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00048">
+                <name>farfum</name>
+                <price currency="GBP">1649</price>
+                <quantity>9</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00017">
+                <name>vageneurrives</name>
+                <price currency="GBP">1364</price>
+                <quantity>10</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00016">
+                <name>expromot</name>
+                <price currency="GBP">1098</price>
+                <quantity>13</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00023">
+                <name>auscriber</name>
+                <price currency="GBP">2396</price>
+                <quantity>8</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="AA0004">
+                <name>thingamajigPro</name>
+                <price currency="GBP">235</price>
+                <quantity>4</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00041">
+                <name>schubrad</name>
+                <price currency="GBP">1722</price>
+                <quantity>12</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00013">
+                <name>flirriar</name>
+                <price currency="GBP">1474</price>
+                <quantity>14</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="AA0007">
+                <name>cloths</name>
+                <price currency="GBP">235</price>
+                <quantity>12</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="AA0006">
+                <name>Transport</name>
+                <price currency="GBP">235</price>
+                <quantity>2</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00025">
+                <name>apperfecoch</name>
+                <price currency="GBP">1409</price>
+                <quantity>7</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00044">
+                <name>exclain</name>
+                <price currency="GBP">1164</price>
+                <quantity>5</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00042">
+                <name>bakizes</name>
+                <price currency="GBP">935</price>
+                <quantity>12</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00005">
+                <name>infitton</name>
+                <price currency="GBP">1701</price>
+                <quantity>13</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00029">
+                <name>symbly</name>
+                <price currency="GBP">1269</price>
+                <quantity>12</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00047">
+                <name>pulasmays</name>
+                <price currency="GBP">1278</price>
+                <quantity>14</quantity>
+                <taxPercentage>0</taxPercentage>
+            </item>
+            <item id="BB00024">
+                <name>grenared</name>
+                <price currency="GBP">1640</price>
+                <quantity>14</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00032">
+                <name>squestolic</name>
+                <price currency="GBP">1334</price>
+                <quantity>6</quantity>
+                <taxPercentage>25</taxPercentage>
+            </item>
+            <item id="BB00022">
+                <name>bernite</name>
+                <price currency="GBP">2405</price>
+                <quantity>2</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+            <item id="BB00040">
+                <name>charia</name>
+                <price currency="GBP">2344</price>
+                <quantity>2</quantity>
+                <taxPercentage>15</taxPercentage>
+            </item>
+            <item id="BB00009">
+                <name>berlsbure</name>
+                <price currency="GBP">2181</price>
+                <quantity>4</quantity>
+                <taxPercentage>20</taxPercentage>
+            </item>
+        </items>
+    </receipt>
+</sales>
